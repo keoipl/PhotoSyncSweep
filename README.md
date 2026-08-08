@@ -102,7 +102,3 @@ python -m unittest discover -s tests -v
 **ZJ_X** — [GitHub @keoipl](https://github.com/keoipl)
 
 如果这个工具对你的摄影工作流有帮助，欢迎给项目点一个 Star。
-
-## 许可证
-
-当前仓库包没有预设许可证。发布前请根据你的分享意愿选择许可证；发布辅助资料中附有 MIT License 模板。未添加许可证时，默认并不等于允许他人复制、修改或再发布源码。
