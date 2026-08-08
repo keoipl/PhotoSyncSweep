@@ -16,7 +16,7 @@ Photo SyncSweep is a Windows desktop utility for photography culling workflows. 
 
 Scanning never modifies files. Every candidate is shown in a preview list and can be selected individually before an action is performed.
 
-<img width="1156" height="876" alt="image" src="https://github.com/user-attachments/assets/52b06daa-25ad-4edb-adb9-3781cad0a9b0" />
+<img width="1149" height="866" alt="image" src="https://github.com/user-attachments/assets/c5214f3c-ab74-4dcf-af9d-24a161947a4e" />
 
 
 ## Features
