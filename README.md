@@ -16,6 +16,9 @@ Photo SyncSweep 是一款面向摄影筛片工作流的 Windows 桌面工具。�
 
 程序始终先扫描和预览，不会在扫描时直接处理照片。正式执行前，每个候选文件都能单独取消勾选。
 
+<img width="1156" height="876" alt="image" src="https://github.com/user-attachments/assets/dd262fa8-55c2-4cfd-8462-f393663168ff" />
+
+
 ## 主要功能
 
 - 三种匹配模式：`JPG → RAW`、`RAW → JPG`、自定义格式。
