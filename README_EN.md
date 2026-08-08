@@ -2,7 +2,7 @@
   <img src="docs/images/app-icon.png" width="150" alt="Photo SyncSweep icon">
   <h1>Photo SyncSweep</h1>
   <p>Safely organize matching JPG, RAW, and XMP files after photo culling.</p>
-  <p><a href="README.md">简体中文</a> · <a href="https://github.com/keoipl/Photo-SyncSweep/releases">Download</a></p>
+  <p><a href="README.md">简体中文</a> · <a href="https://github.com/keoipl/PhotoSyncSweep/releases">Download</a></p>
 </div>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-6FAF7B)
