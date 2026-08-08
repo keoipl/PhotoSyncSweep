@@ -102,7 +102,3 @@ Photo SyncSweep does not upload photos, file names, paths, or usage data and doe
 **ZJ_X** — [GitHub @keoipl](https://github.com/keoipl)
 
 If Photo SyncSweep helps your workflow, consider starring the repository.
-
-## License
-
-No license is preselected in this prepared repository. Choose one before publishing if you want to grant reuse rights. Without a license, source code is not automatically open for copying, modification, or redistribution.
