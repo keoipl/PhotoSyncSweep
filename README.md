@@ -2,7 +2,7 @@
   <img src="docs/images/app-icon.png" width="150" alt="Photo SyncSweep 图标">
   <h1>Photo SyncSweep 照片联动清理助手</h1>
   <p>根据同名 JPG / RAW 的保留结果，安全整理照片文件与 XMP 边车文件。</p>
-  <p><a href="README_EN.md">English</a> · <a href="https://github.com/keoipl/Photo-SyncSweep/releases">下载最新版</a></p>
+  <p><a href="README_EN.md">English</a> · <a href="https://github.com/keoipl/PhotoSyncSweep/releases">下载最新版</a></p>
 </div>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-6FAF7B)
